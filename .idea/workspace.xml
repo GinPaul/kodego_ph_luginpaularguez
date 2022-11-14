@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6fca8c1-6852-453a-b4d6-60dbb8a861fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity01-I.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity01-J.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-B.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-C.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-D.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity03-A.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity01-D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity01-D.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-D.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

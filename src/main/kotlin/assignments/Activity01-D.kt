@@ -38,12 +38,12 @@ fun main() {
                 }
             } while (false)
             println("The amount you entered is $num2")
-            println("The exercises.getTotal amount you entered is $total.")
+            println("The total amount you entered is $total.")
 
         } else if (inputText == "N") {
-            println("The exercises.getTotal amount you entered is $total")
+            println("The total amount you entered is $total")
 
-            println("Divide the exercises.getTotal amount by how many?")
+            println("Divide the amount by how many?")
             var divisor: Int = readln().toInt()
 
             var finalAmount: Int = total / divisor
