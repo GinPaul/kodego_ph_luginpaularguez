@@ -10,11 +10,11 @@ fun main(){
     println("Choose an option:\n [1] Search name\n, [2] Add a name\n, [3] Delete a name\n")
     if (transaction == 1){
         println("Please enter the name of the student:")
-        searchName = readln().toString()
+        searchName = readln()
         isStudentInRecord(searchName)
     }else if (transaction == 2){
         println("Please type the name of the student that you want to add:")
-        addName = readln().toString()
+        addName = readln()
         addStudent()
     }else if (transaction == 3){
 
@@ -22,9 +22,40 @@ fun main(){
         println("Thank you for your transaction. Please try again. ")
     }
 
+    removeStudent()
+    countStudent()
+    searchStudentWildSearch()
+    searchStudentName()
+    searchStudents()
+    showStudents()
+
 }
 
-    fun addStudent() {
+fun showStudents() {
+
+}
+
+fun searchStudents() {
+
+}
+
+fun searchStudentName() {
+
+}
+
+fun searchStudentWildSearch() {
+
+}
+
+fun countStudent() {
+
+}
+
+fun removeStudent() {
+
+}
+
+fun addStudent() {
     }
 
     fun isStudentInRecord(names: String):String {

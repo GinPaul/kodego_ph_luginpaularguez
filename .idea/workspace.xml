@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6fca8c1-6852-453a-b4d6-60dbb8a861fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity03-A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity03-B.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity01-D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity01-D.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity02-D.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity03-A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/assignments/Activity03-A.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Activity03_AKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.Activity03_AKt" />
+      <module name="kodego_ph_assignments_arguez2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Activity03_AKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
